@@ -1,6 +1,6 @@
 # Container With Most Water
 
-##Two pointers Approach - 
+## Two pointers Approach - 
 
 
 1. **Intuition behind the 2 pointers approach** is that, for water we need a container and here its formed **using 2 poles**. So to find 2 poles with **max water**, poles should be placed at the **farthest possible position**, which here will be 0 and n-1 index.
