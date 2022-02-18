@@ -15,9 +15,9 @@
     b. **Keep a pole** of **higher height** out of these two , bcoz it still can make more water with further unvisited poles bcoz we **have not** yet **utilized** the **complete height of the pole**.
 
 **Complexity Analysis** - 
-* **Time Complexity** T(n) - O(n)
-* **Space Complexity** S(n) - O(1) 
-where ‘n’ is the size of the nums array.
+* **Time Complexity** O(n), where ‘n’ is the size of the nums array.
+* **Space Complexity** O(1) 
+
 
 **CODE**
 
